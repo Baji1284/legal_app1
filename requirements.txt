@@ -13,9 +13,14 @@ pytesseract  # OCR engine
 beautifulsoup4  # For HTML parsing if needed
 pdf2image
 pytesseract
-opencv-python
+#opencv-python
 pandas
 numpy
+libgl1
+libglib2.0-0
+libsm6
+libxrender1
+libxext6
 
 # AI Model APIs
 google-generativeai
