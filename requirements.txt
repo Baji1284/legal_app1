@@ -13,7 +13,7 @@ pytesseract  # OCR engine
 beautifulsoup4  # For HTML parsing if needed
 pdf2image
 pytesseract
-#opencv-python
+opencv-python-headless
 pandas
 numpy
 libgl1
