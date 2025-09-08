@@ -11,6 +11,11 @@ pdf2image  # Needs poppler-utils installed on system
 pillow  # For image handling
 pytesseract  # OCR engine
 beautifulsoup4  # For HTML parsing if needed
+pdf2image
+pytesseract
+opencv-python
+pandas
+numpy
 
 # AI Model APIs
 google-generativeai
